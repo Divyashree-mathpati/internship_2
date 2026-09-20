@@ -1,13 +1,19 @@
 # VLSI Tech Internship Project
 
-This repository documents an internship project focused on implementing AMBA protocols on an STM32 microcontroller. The project uses Embedded C and UART for hardware communication.
+This repository documents my VLSI internship at VSI Technology, Nagarabhavi. During the internship, I studied and worked with AMBA protocols, STM board implementation, and hardware design using Verilog and SystemVerilog.
 
 ## Project Focus
 
-- AMBA protocol implementation
-- STM32-based embedded development
+- AMBA protocol architecture and implementation
+- AHB, AXI, CHI, APB, and ACE protocols
+- STM board implementation and embedded development
+- Verilog and SystemVerilog design
 - Embedded C programming
 - UART hardware communication
+
+## Internship Experience
+
+The internship provided practical experience with the AMBA protocol family, including Advanced High-performance Bus (AHB), Advanced eXtensible Interface (AXI), Coherent Hub Interface (CHI), Advanced Peripheral Bus (APB), and AXI Coherency Extensions (ACE). I also worked on implementing and understanding these concepts on STM boards and explored RTL design using Verilog and SystemVerilog.
 
 ## Repository Contents
 
