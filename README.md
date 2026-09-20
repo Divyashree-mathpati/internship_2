@@ -1,6 +1,6 @@
 # VLSI Tech Internship Project
 
-This repository documents my VLSI internship at VSI Technology, Nagarabhavi. During the internship, I studied and worked with AMBA protocols, STM board implementation, and hardware design using Verilog and SystemVerilog.
+This repository documents my VLSI internship at VLSI Technology, Nagarabhavi. During the internship, I studied and worked with AMBA protocols, STM board implementation, and hardware design using Verilog and SystemVerilog.
 
 ## Project Focus
 
